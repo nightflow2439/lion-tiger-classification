@@ -1,0 +1,13 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# 实验报告（不上传）
+狮子老虎图片分类实验报告.doc
+
+# OS
+.DS_Store
+Thumbs.db
